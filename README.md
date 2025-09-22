@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - 🌱 Currently exploring advanced Node and React patterns and microservices architecture
 - 👯 Looking to collaborate on open-source projects and innovative web applications
 - 💬 Ask me about JavaScript, React, Node.js, or anything web development related
-- 📫 Reach me at: **[ashishga2003@gmail.com]**
+- 📫 Reach me at: **ashishga2003@gmail.com**
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed of it!
 
 ### 🛠️ Tech Stack
@@ -59,50 +59,43 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 
 ### 🚀 Featured Projects
 
-#### [Project Name 1](https://github.com/your-username/project-1)
-**Full Stack E-commerce Platform** | *React • Node.js • MongoDB • Stripe*
-- Built a complete e-commerce solution with user authentication, product management, and payment processing
-- Implemented responsive design with React and modern CSS frameworks
+#### [🥬 Freshify – Online Grocery Delivery Platform] ([https://github.com/ashish02003/Freshify])
+**Full Stack E-commerce Platform** | *React • Node.js • Express • Redux Toolkit • MongoDB • Stripe • JWT • Cookies *
+- Built a complete grocery e-commerce solution with user authentication, product management, and payment processing
+- Implemented responsive design with React and modern tailwind CSS frameworks
 - Integrated Stripe API for secure payment processing
+- 🛒 Shopping & Orders Management
 
-#### [Project Name 2](https://github.com/your-username/project-2)
-**Social Media Dashboard** | *React • Express.js • MongoDB • JWT*
-- Developed a social media management tool with real-time notifications
-- Created RESTful APIs for user management and content posting
-- Implemented JWT-based authentication and authorization
+#### [Estatehub - Online Real Estate Plateform]([https://github.com/ashish02003/EstateHub])
+**Full Stack Real Estate Platform** | *React • Node.js • Redux Toolkit • MongoDB • Express • JWT*
+- Developed a modern real estate platform enabling users to browse, search, sell, and rent properties
+- Designed a responsive UI with React and Tailwind CSS for seamless user experience
+- Implemented secure authentication and authorization with JWT
+-⚡ Real-time property updates and management features for sellers & renters
 
-#### [Project Name 3](https://github.com/your-username/project-3)
-**Task Management App** | *MERN Stack • Socket.io • Redux*
-- Built a collaborative task management application with real-time updates
-- Implemented drag-and-drop functionality and team collaboration features
-- Used Socket.io for real-time communication between team members
 
-### 📊 Coding Activity
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=react&hide_border=true" alt="GitHub Streak" />
-</div>
+
 
 ### 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/ashish-gautam-7511091b3/))
+
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishga2003@gmail.com)
 
 ### 💡 Current Focus
 
-- 🔭 Working on improving my skills in **TypeScript** and **Next.js**
+- 🔭 Working on improving my skills in **LLM** and **Next.js**
 - 🌟 Contributing to open-source projects in the React ecosystem
-- 📚 Learning **Docker** and **Kubernetes** for better deployment strategies
+- 📚 Learning **Docker** and **LLM** for better deployment strategies
 - 🎯 Building a SaaS application to help small businesses manage their operations
 
 ---
 
 <div align="center">
-  <i>⭐️ From [ashish02003](https://github.com/ashish02003)</i>
+  <i>⭐️ From [ashish02003] (https://github.com/ashish02003)</i>
 </div>
 
 ---
