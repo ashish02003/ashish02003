@@ -50,11 +50,11 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ashish02003&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashish02003&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
 </div>
 
 ### 🚀 Featured Projects
@@ -102,7 +102,7 @@ I'm always interested in collaborating on exciting projects and meeting fellow d
 ---
 
 <div align="center">
-  <i>⭐️ From [your-github-username](https://github.com/your-github-username)</i>
+  <i>⭐️ From [ashish02003](https://github.com/ashish02003)</i>
 </div>
 
 ---
