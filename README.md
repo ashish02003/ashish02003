@@ -1,16 +1,16 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Ashish Kumar
 
-## Full Stack Web Developer | MERN Stack Specialist
+## Full Stack Web Developer | MERN Stack Developer
 
 Welcome to my GitHub profile! I'm a passionate full-stack developer specializing in the MERN stack, with a love for creating robust, scalable web applications that solve real-world problems.
 
 ### 🚀 About Me
 
 - 💻 Full Stack Web Developer with expertise in **MERN** (MongoDB, Express.js, React.js, Node.js)
-- 🌱 Currently exploring advanced React patterns and microservices architecture
+- 🌱 Currently exploring advanced Node and React patterns and microservices architecture
 - 👯 Looking to collaborate on open-source projects and innovative web applications
 - 💬 Ask me about JavaScript, React, Node.js, or anything web development related
-- 📫 Reach me at: **[your-email@example.com]**
+- 📫 Reach me at: **[ashishga2003@gmail.com]**
 - ⚡ Fun fact: I debug with console.log() and I'm not ashamed of it!
 
 ### 🛠️ Tech Stack
@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![ReduxToolkit](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 #### Backend
@@ -33,7 +33,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
+[![Render](https://img.shields.io/badge/-Render-4F46E5?style=flat-square&logo=render&logoColor=white)](https://render.com)
+[![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)](https://vercel.com)
+
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
 ### 🏗️ What I Build
