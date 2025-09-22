@@ -66,7 +66,7 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 - Integrated Stripe API for secure payment processing
 - 🛒 Shopping & Orders Management
 
-#### [Estatehub - Online Real Estate Plateform]([https://github.com/ashish02003/EstateHub])
+#### [Estatehub - Online Real Estate Plateform] ([https://github.com/ashish02003/EstateHub])
 **Full Stack Real Estate Platform** | *React • Node.js • Redux Toolkit • MongoDB • Express • JWT*
 - Developed a modern real estate platform enabling users to browse, search, sell, and rent properties
 - Designed a responsive UI with React and Tailwind CSS for seamless user experience
@@ -82,8 +82,9 @@ Welcome to my GitHub profile! I'm a passionate full-stack developer specializing
 I'm always interested in collaborating on exciting projects and meeting fellow developers!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/(https://www.linkedin.com/in/ashish-gautam-7511091b3/))
-
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ashishga2003@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ashishk21315)
+
 
 ### 💡 Current Focus
 
